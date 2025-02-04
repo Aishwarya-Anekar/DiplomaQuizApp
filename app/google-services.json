@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778899431435",
+    "project_id": "quizbox-bbf0f",
+    "storage_bucket": "quizbox-bbf0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778899431435:android:d198fcc05714803923e70e",
+        "android_client_info": {
+          "package_name": "com.ayowainc.quizbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRcaxcXqcQ5oLkvEZXSIPTaKe7IGxUlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
